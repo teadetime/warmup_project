@@ -37,9 +37,10 @@ As mentioned earlier I used a simple state machine for the wall following behavi
 
 ### Challenges
 - Using a simulator can be tough! A lot of time was spent getting familiar with it and various problems/bad states that were gotten into.
-- Odometry 
+- Odometry was stored in Quaternion and wasn't useful in it's format so it had to be converted
+-
 
 ### Improvements
 
 ### Takeaways
-- *Use Bag Files* Using bag files 
+- *Use Bag Files* Using bag files can really help speed up development
