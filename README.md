@@ -1,4 +1,4 @@
-# A ROS Warmup _Nathan Faber
+# A ROS Warmup -Nathan Faber
 ### Project Overview
 This project serves as an intro point to ROS. The objective is to implement several behaviors of increasingly complex behavior. Each behavior is slightly different and will utilize a slightly different type of control system.
 
